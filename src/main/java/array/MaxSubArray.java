@@ -19,7 +19,7 @@ public class MaxSubArray {
         }
         return maxi;
     }
-//**********1st Brute Force Method******************
+//**********1st Brute Force Method*******************
 //  //T.C=O(n^3)
 //    static int findMaxSubArray(int[] arr) {
 //        int max = 0;
